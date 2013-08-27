@@ -19,7 +19,7 @@
 <html>
 
 	<head>
-		<title>Girls Guide to Middle School</title>
+		<title>Girls Guide to Middle Schools</title>
 		<link href='http://fonts.googleapis.com/css?family=Londrina+Shadow' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Crafty+Girls' rel='stylesheet' type='text/css'>
 		<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light' rel='stylesheet' type='text/css'>
